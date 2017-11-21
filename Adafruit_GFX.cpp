@@ -1389,7 +1389,7 @@ void GFXcanvas16::fillScreen(uint16_t color) {
     }
 }
 
-<<<<<<< HEAD
+
 //draw pentagan
 void Adafruit_GFX::Pentagram(int16_t x0, int16_t y0, int16_t r, uint16_t color)
 {
@@ -1414,7 +1414,6 @@ void Adafruit_GFX::Pentagram(int16_t x0, int16_t y0, int16_t r, uint16_t color)
 }
 
 
-=======
 //画椭圆
 void Adafruit_GFX::drawEllipse(int16_t x0, int16_t y0, int16_t a,int16_t b,
 	uint16_t color) {
@@ -1451,5 +1450,4 @@ void Adafruit_GFX::drawEllipse(int16_t x0, int16_t y0, int16_t a,int16_t b,
 	}
 	endWrite();
 }
->>>>>>> yzr2
 
